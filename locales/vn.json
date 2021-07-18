@@ -1,0 +1,5 @@
+{
+  "RATE_LIMIT_EXCEEDED": "Quá nhiều yêu cầu từ IP này, vui lòng thử lại sau",
+  "SERVER_ERROR": "Server lỗi cmnr",
+  "OK": "chương trình chạy ổn rồi nha"
+}

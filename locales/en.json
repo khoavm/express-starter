@@ -1,0 +1,5 @@
+{
+  "RATE_LIMIT_EXCEEDED": "Too Many Request from this IP, please try again later",
+  "SERVER_ERROR": "Server is failed",
+  "OK": "oh yeah haha"
+}
